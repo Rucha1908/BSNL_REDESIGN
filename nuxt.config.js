@@ -7,7 +7,7 @@ export default {
   */
   mode: 'spa',
   router: {
-    base: '/webdev-starter-materialUI/'
+    base: '/BSNL_REDESIGN/'
   },
   /*
   ** Nuxt target
