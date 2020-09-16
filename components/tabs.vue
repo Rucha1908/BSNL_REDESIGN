@@ -5,6 +5,6 @@
     <v-tab>Postpaid</v-tab>
      <v-tab>Fiber and wifi</v-tab>
       <v-tab>Customize your number</v-tab>
-      
+
   </v-tabs>
 </template>

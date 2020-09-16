@@ -3,10 +3,10 @@
   <v-app id="inspire">
     
     <!--Header -->
-    <v-app-bar color="0061B4" dark fixed app>
-      <v-toolbar-title>Application</v-toolbar-title>
+    <v-app-bar color="white" dark fixed app>
+       <bsnl_logo/>
        <!-- Component Example -->
-      <bsnlLogo/>
+      
       <tabs/>
 
     </v-app-bar>
@@ -18,7 +18,7 @@
     
     <!-- Footer -->
     <v-footer color="indigo" app>
-      <span class="white--text">&copy; {{ new Date().getFullYear() }}</span>
+      <span class="blue--text">&copy; {{ new Date().getFullYear() }}</span>
     </v-footer>
 
   </v-app>
