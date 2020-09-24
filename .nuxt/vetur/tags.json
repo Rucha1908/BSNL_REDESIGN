@@ -1,0 +1,38 @@
+{
+  "Breadcrumb": {
+    "description": "Auto imported from components/Breadcrumb.vue"
+  },
+  "LazyBreadcrumb": {
+    "description": "Auto imported from components/Breadcrumb.vue"
+  },
+  "Caraosel": {
+    "description": "Auto imported from components/Caraosel.vue"
+  },
+  "LazyCaraosel": {
+    "description": "Auto imported from components/Caraosel.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/footer.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/logo.vue"
+  },
+  "Register": {
+    "description": "Auto imported from components/register.vue"
+  },
+  "LazyRegister": {
+    "description": "Auto imported from components/register.vue"
+  },
+  "Tabs": {
+    "description": "Auto imported from components/tabs.vue"
+  },
+  "LazyTabs": {
+    "description": "Auto imported from components/tabs.vue"
+  }
+}

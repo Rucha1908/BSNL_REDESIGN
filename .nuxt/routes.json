@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Browseplans",
+    "path": "/Browseplans",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/Browseplans.vue",
+    "chunkName": "pages/Browseplans",
+    "_name": "_3225158a"
+  },
+  {
+    "name": "cards",
+    "path": "/cards",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/cards.vue",
+    "chunkName": "pages/cards",
+    "_name": "_38d14eed"
+  },
+  {
+    "name": "confirmatiopage",
+    "path": "/confirmatiopage",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/confirmatiopage.vue",
+    "chunkName": "pages/confirmatiopage",
+    "_name": "_5323381c"
+  },
+  {
+    "name": "Home",
+    "path": "/Home",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/Home.vue",
+    "chunkName": "pages/Home",
+    "_name": "_a1746136"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_039e7264"
+  },
+  {
+    "name": "mapped",
+    "path": "/mapped",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/mapped.vue",
+    "chunkName": "pages/mapped",
+    "_name": "_0233cf19"
+  },
+  {
+    "name": "negative",
+    "path": "/negative",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/negative.vue",
+    "chunkName": "pages/negative",
+    "_name": "_1cb0deca"
+  },
+  {
+    "name": "newtabs",
+    "path": "/newtabs",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/newtabs.vue",
+    "chunkName": "pages/newtabs",
+    "_name": "_f7456ab0"
+  },
+  {
+    "name": "Padding",
+    "path": "/Padding",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/Padding.vue",
+    "chunkName": "pages/Padding",
+    "_name": "_7c466ffb"
+  },
+  {
+    "name": "stateselection",
+    "path": "/stateselection",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/stateselection.vue",
+    "chunkName": "pages/stateselection",
+    "_name": "_bb4b21fe"
+  },
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/test.vue",
+    "chunkName": "pages/test",
+    "_name": "_f7e8ad10"
+  },
+  {
+    "name": "typu",
+    "path": "/typu",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/typu.vue",
+    "chunkName": "pages/typu",
+    "_name": "_be104fa0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_163f40dc"
+  }
+]
