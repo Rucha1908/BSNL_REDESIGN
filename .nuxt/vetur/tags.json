@@ -1,33 +1,51 @@
 {
+  "Logofile": {
+    "description": "Auto imported from components/Logofile.vue"
+  },
+  "LazyLogofile": {
+    "description": "Auto imported from components/Logofile.vue"
+  },
+  "Accordian": {
+    "description": "Auto imported from components/accordian.vue"
+  },
+  "LazyAccordian": {
+    "description": "Auto imported from components/accordian.vue"
+  },
   "Breadcrumb": {
-    "description": "Auto imported from components/Breadcrumb.vue"
+    "description": "Auto imported from components/breadcrumb.vue"
   },
   "LazyBreadcrumb": {
-    "description": "Auto imported from components/Breadcrumb.vue"
+    "description": "Auto imported from components/breadcrumb.vue"
   },
   "Caraosel": {
-    "description": "Auto imported from components/Caraosel.vue"
+    "description": "Auto imported from components/caraosel.vue"
   },
   "LazyCaraosel": {
-    "description": "Auto imported from components/Caraosel.vue"
+    "description": "Auto imported from components/caraosel.vue"
   },
-  "Footer": {
-    "description": "Auto imported from components/footer.vue"
+  "Customactions": {
+    "description": "Auto imported from components/customactions.vue"
   },
-  "LazyFooter": {
-    "description": "Auto imported from components/footer.vue"
+  "LazyCustomactions": {
+    "description": "Auto imported from components/customactions.vue"
   },
-  "Logo": {
-    "description": "Auto imported from components/logo.vue"
+  "Grids": {
+    "description": "Auto imported from components/grids.vue"
   },
-  "LazyLogo": {
-    "description": "Auto imported from components/logo.vue"
+  "LazyGrids": {
+    "description": "Auto imported from components/grids.vue"
   },
-  "Register": {
-    "description": "Auto imported from components/register.vue"
+  "Horizontalcards": {
+    "description": "Auto imported from components/horizontalcards.vue"
   },
-  "LazyRegister": {
-    "description": "Auto imported from components/register.vue"
+  "LazyHorizontalcards": {
+    "description": "Auto imported from components/horizontalcards.vue"
+  },
+  "Loadingaction": {
+    "description": "Auto imported from components/loadingaction.vue"
+  },
+  "LazyLoadingaction": {
+    "description": "Auto imported from components/loadingaction.vue"
   },
   "Tabs": {
     "description": "Auto imported from components/tabs.vue"

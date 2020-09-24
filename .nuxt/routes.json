@@ -7,25 +7,53 @@
     "_name": "_3225158a"
   },
   {
-    "name": "cards",
-    "path": "/cards",
-    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/cards.vue",
-    "chunkName": "pages/cards",
-    "_name": "_38d14eed"
+    "name": "confirmationpage",
+    "path": "/confirmationpage",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/confirmationpage.vue",
+    "chunkName": "pages/confirmationpage",
+    "_name": "_a41cf9ac"
   },
   {
-    "name": "confirmatiopage",
-    "path": "/confirmatiopage",
-    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/confirmatiopage.vue",
-    "chunkName": "pages/confirmatiopage",
-    "_name": "_5323381c"
+    "name": "customactions",
+    "path": "/customactions",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/customactions.vue",
+    "chunkName": "pages/customactions",
+    "_name": "_5fa75514"
   },
   {
-    "name": "Home",
-    "path": "/Home",
-    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/Home.vue",
-    "chunkName": "pages/Home",
-    "_name": "_a1746136"
+    "name": "dialog",
+    "path": "/dialog",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/dialog.vue",
+    "chunkName": "pages/dialog",
+    "_name": "_35327bae"
+  },
+  {
+    "name": "forms",
+    "path": "/forms",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/forms.vue",
+    "chunkName": "pages/forms",
+    "_name": "_996aa48e"
+  },
+  {
+    "name": "grids",
+    "path": "/grids",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/grids.vue",
+    "chunkName": "pages/grids",
+    "_name": "_d8821f12"
+  },
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/home.vue",
+    "chunkName": "pages/home",
+    "_name": "_a9292976"
+  },
+  {
+    "name": "horizontalcards",
+    "path": "/horizontalcards",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/horizontalcards.vue",
+    "chunkName": "pages/horizontalcards",
+    "_name": "_4b91766e"
   },
   {
     "name": "inspire",
@@ -35,32 +63,11 @@
     "_name": "_039e7264"
   },
   {
-    "name": "mapped",
-    "path": "/mapped",
-    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/mapped.vue",
-    "chunkName": "pages/mapped",
-    "_name": "_0233cf19"
-  },
-  {
-    "name": "negative",
-    "path": "/negative",
-    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/negative.vue",
-    "chunkName": "pages/negative",
-    "_name": "_1cb0deca"
-  },
-  {
-    "name": "newtabs",
-    "path": "/newtabs",
-    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/newtabs.vue",
-    "chunkName": "pages/newtabs",
-    "_name": "_f7456ab0"
-  },
-  {
-    "name": "Padding",
-    "path": "/Padding",
-    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/Padding.vue",
-    "chunkName": "pages/Padding",
-    "_name": "_7c466ffb"
+    "name": "loadingaction",
+    "path": "/loadingaction",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/loadingaction.vue",
+    "chunkName": "pages/loadingaction",
+    "_name": "_5503387c"
   },
   {
     "name": "stateselection",
@@ -68,20 +75,6 @@
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/stateselection.vue",
     "chunkName": "pages/stateselection",
     "_name": "_bb4b21fe"
-  },
-  {
-    "name": "test",
-    "path": "/test",
-    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/test.vue",
-    "chunkName": "pages/test",
-    "_name": "_f7e8ad10"
-  },
-  {
-    "name": "typu",
-    "path": "/typu",
-    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/typu.vue",
-    "chunkName": "pages/typu",
-    "_name": "_be104fa0"
   },
   {
     "name": "index",

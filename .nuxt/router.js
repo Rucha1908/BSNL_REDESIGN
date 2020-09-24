@@ -4,17 +4,16 @@ import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
 const _3225158a = () => interopDefault(import('../pages/Browseplans.vue' /* webpackChunkName: "pages/Browseplans" */))
-const _38d14eed = () => interopDefault(import('../pages/cards.vue' /* webpackChunkName: "pages/cards" */))
-const _5323381c = () => interopDefault(import('../pages/confirmatiopage.vue' /* webpackChunkName: "pages/confirmatiopage" */))
-const _a1746136 = () => interopDefault(import('../pages/Home.vue' /* webpackChunkName: "pages/Home" */))
+const _a41cf9ac = () => interopDefault(import('../pages/confirmationpage.vue' /* webpackChunkName: "pages/confirmationpage" */))
+const _5fa75514 = () => interopDefault(import('../pages/customactions.vue' /* webpackChunkName: "pages/customactions" */))
+const _35327bae = () => interopDefault(import('../pages/dialog.vue' /* webpackChunkName: "pages/dialog" */))
+const _996aa48e = () => interopDefault(import('../pages/forms.vue' /* webpackChunkName: "pages/forms" */))
+const _d8821f12 = () => interopDefault(import('../pages/grids.vue' /* webpackChunkName: "pages/grids" */))
+const _a9292976 = () => interopDefault(import('../pages/home.vue' /* webpackChunkName: "pages/home" */))
+const _4b91766e = () => interopDefault(import('../pages/horizontalcards.vue' /* webpackChunkName: "pages/horizontalcards" */))
 const _039e7264 = () => interopDefault(import('../pages/inspire.vue' /* webpackChunkName: "pages/inspire" */))
-const _0233cf19 = () => interopDefault(import('../pages/mapped.vue' /* webpackChunkName: "pages/mapped" */))
-const _1cb0deca = () => interopDefault(import('../pages/negative.vue' /* webpackChunkName: "pages/negative" */))
-const _f7456ab0 = () => interopDefault(import('../pages/newtabs.vue' /* webpackChunkName: "pages/newtabs" */))
-const _7c466ffb = () => interopDefault(import('../pages/Padding.vue' /* webpackChunkName: "pages/Padding" */))
+const _5503387c = () => interopDefault(import('../pages/loadingaction.vue' /* webpackChunkName: "pages/loadingaction" */))
 const _bb4b21fe = () => interopDefault(import('../pages/stateselection.vue' /* webpackChunkName: "pages/stateselection" */))
-const _f7e8ad10 = () => interopDefault(import('../pages/test.vue' /* webpackChunkName: "pages/test" */))
-const _be104fa0 = () => interopDefault(import('../pages/typu.vue' /* webpackChunkName: "pages/typu" */))
 const _163f40dc = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 // TODO: remove in Nuxt 3
@@ -38,49 +37,45 @@ export const routerOptions = {
     component: _3225158a,
     name: "Browseplans"
   }, {
-    path: "/cards",
-    component: _38d14eed,
-    name: "cards"
+    path: "/confirmationpage",
+    component: _a41cf9ac,
+    name: "confirmationpage"
   }, {
-    path: "/confirmatiopage",
-    component: _5323381c,
-    name: "confirmatiopage"
+    path: "/customactions",
+    component: _5fa75514,
+    name: "customactions"
   }, {
-    path: "/Home",
-    component: _a1746136,
-    name: "Home"
+    path: "/dialog",
+    component: _35327bae,
+    name: "dialog"
+  }, {
+    path: "/forms",
+    component: _996aa48e,
+    name: "forms"
+  }, {
+    path: "/grids",
+    component: _d8821f12,
+    name: "grids"
+  }, {
+    path: "/home",
+    component: _a9292976,
+    name: "home"
+  }, {
+    path: "/horizontalcards",
+    component: _4b91766e,
+    name: "horizontalcards"
   }, {
     path: "/inspire",
     component: _039e7264,
     name: "inspire"
   }, {
-    path: "/mapped",
-    component: _0233cf19,
-    name: "mapped"
-  }, {
-    path: "/negative",
-    component: _1cb0deca,
-    name: "negative"
-  }, {
-    path: "/newtabs",
-    component: _f7456ab0,
-    name: "newtabs"
-  }, {
-    path: "/Padding",
-    component: _7c466ffb,
-    name: "Padding"
+    path: "/loadingaction",
+    component: _5503387c,
+    name: "loadingaction"
   }, {
     path: "/stateselection",
     component: _bb4b21fe,
     name: "stateselection"
-  }, {
-    path: "/test",
-    component: _f7e8ad10,
-    name: "test"
-  }, {
-    path: "/typu",
-    component: _be104fa0,
-    name: "typu"
   }, {
     path: "/",
     component: _163f40dc,

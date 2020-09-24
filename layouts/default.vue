@@ -3,24 +3,6 @@
   <v-app id="inspire">
     
     <!--Header -->
-<<<<<<< Updated upstream
-    <v-app-bar color="white" dark fixed app>
-       <bsnl_logo/>
-       <!-- Component Example -->
-      
-      <tabs/>
-
-    </v-app-bar>
-
-    <!-- Body -->
-    <v-content dark>
-      <nuxt /> 
-    </v-content>
-    
-    <!-- Footer -->
-    <v-footer color="indigo" app>
-      <span class="blue--text">&copy; {{ new Date().getFullYear() }}</span>
-=======
     
        
        <v-app-bar color="white" light fixed app height="160px">
@@ -95,7 +77,6 @@ export default {
     
      
       <footer/>
->>>>>>> Stashed changes
     </v-footer>
 
   </v-app>
@@ -107,11 +88,7 @@ export default {}
 
 <style> 
   .white--text {
-<<<<<<< Updated upstream
-    border: 1px solid;
-=======
     border: 20px solid;
->>>>>>> Stashed changes
   }
 
    #inspire {
