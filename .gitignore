@@ -92,3 +92,8 @@ sw.*
 =======
 node_modules
 >>>>>>> Stashed changes
+dist/Browseplans/index.html
+dist/200.html
+dist/index.html
+dist/inspire/index.html
+dist/stateselection/index.html
