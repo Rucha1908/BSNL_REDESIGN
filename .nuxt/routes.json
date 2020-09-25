@@ -3,84 +3,72 @@
     "name": "Browseplans",
     "path": "/Browseplans",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/Browseplans.vue",
-    "chunkName": "pages/Browseplans",
-    "_name": "_3225158a"
+    "chunkName": "pages/Browseplans"
   },
   {
     "name": "confirmationpage",
     "path": "/confirmationpage",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/confirmationpage.vue",
-    "chunkName": "pages/confirmationpage",
-    "_name": "_a41cf9ac"
+    "chunkName": "pages/confirmationpage"
   },
   {
     "name": "customactions",
     "path": "/customactions",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/customactions.vue",
-    "chunkName": "pages/customactions",
-    "_name": "_5fa75514"
+    "chunkName": "pages/customactions"
   },
   {
     "name": "dialog",
     "path": "/dialog",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/dialog.vue",
-    "chunkName": "pages/dialog",
-    "_name": "_35327bae"
+    "chunkName": "pages/dialog"
   },
   {
     "name": "forms",
     "path": "/forms",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/forms.vue",
-    "chunkName": "pages/forms",
-    "_name": "_996aa48e"
+    "chunkName": "pages/forms"
   },
   {
     "name": "grids",
     "path": "/grids",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/grids.vue",
-    "chunkName": "pages/grids",
-    "_name": "_d8821f12"
+    "chunkName": "pages/grids"
   },
   {
     "name": "home",
     "path": "/home",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/home.vue",
-    "chunkName": "pages/home",
-    "_name": "_a9292976"
+    "chunkName": "pages/home"
   },
   {
     "name": "horizontalcards",
     "path": "/horizontalcards",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/horizontalcards.vue",
-    "chunkName": "pages/horizontalcards",
-    "_name": "_4b91766e"
+    "chunkName": "pages/horizontalcards"
   },
   {
     "name": "inspire",
     "path": "/inspire",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/inspire.vue",
-    "chunkName": "pages/inspire",
-    "_name": "_039e7264"
+    "chunkName": "pages/inspire"
   },
   {
     "name": "loadingaction",
     "path": "/loadingaction",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/loadingaction.vue",
-    "chunkName": "pages/loadingaction",
-    "_name": "_5503387c"
+    "chunkName": "pages/loadingaction"
   },
   {
     "name": "stateselection",
     "path": "/stateselection",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/stateselection.vue",
-    "chunkName": "pages/stateselection",
-    "_name": "_bb4b21fe"
+    "chunkName": "pages/stateselection"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_163f40dc"
+    "chunkName": "pages/index"
   }
 ]
