@@ -4,7 +4,7 @@
       <h4> Prepaid / View plans / Select your state / Browse plans / Confirmation </h4>
     </div>
      <br /><br /><br /><br /><br /><br />
-    <div class="ml-8 pl-16">
+    <div class="ml-8 pl-8">
       <h1> Prepaid> View Plans> Select your state </h1>
       <br /><br />
 
@@ -17,8 +17,8 @@
 
 
 
-        <v-col cols="6" md="4" class="pr-8">
-          <v-btn outline block class="primary" style="width: 70px ; height: 70px"> POPULAR PLANS </v-btn><br>
+        <v-col cols="6" md="4" xs= "2" class="pr-8">
+          <v-btn outline block class="primary" style="width: 100px ; height: 70px"> POPULAR PLANS </v-btn><br>
 
           <v-btn outline block class="primary" style="width: 100px ; height: 70px"> DATA </v-btn><br>
           <v-btn outline block class="primary" style="width: 100px ; height: 70px"> TALKTIME </v-btn><br>
@@ -33,8 +33,8 @@
 
 
 
-        <v-col cols="6" md="4" class="pr-8 ">
-          <v-container>
+        <v-col cols="6" md="4" xs="2" class="pr-8 ">
+          
             <v-row class="primary" style="width: 600px ; height: 70px">
               <v-select v-model="sortBy" flat solo-inverted hide-details :items="keys" prepend-inner-icon
                 label="Sort by"></v-select>
@@ -42,11 +42,11 @@
 
 
 
-            <v-row style="width: 1000px ; height: 1500px" v-for="(item,i) in " :key="i">
+            <v-row  md="16" xs="1" style="width: 1000px ; height: 800px" v-for="(item,i) in " :key="i" >
 
-              <v-expansion-panels accordion>
+              <v-expansion-panels accordion md="16" xs="18">
 
-                <v-expansion-panel v-for="(item,i) in 15" :key="i">
+                <v-expansion-panel v-for="(item,i) in 8" :key="i" md="16" xs="8">
 
                   <v-expansion-panel-header>Item</v-expansion-panel-header>
                   <v-expansion-panel-content>
@@ -57,7 +57,7 @@
                 </v-expansion-panel>
               </v-expansion-panels>
             </v-row>
-          </v-container>
+          
 
 
 
