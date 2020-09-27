@@ -1,35 +1,30 @@
 <template>
-  <div>
-    <v-breadcrumbs :items="items">
-      <template v-slot:divider>
-        <v-icon>mdi-forward</v-icon>
-      </template>
-    </v-breadcrumbs>
+  <div >
+   <!--Breadcrumbs for Confirmation page -->
 
-    <v-breadcrumbs :items="items">
-      <template v-slot:divider>
-        <v-icon>mdi-chevron-right</v-icon>
+    <v-breadcrumbs :items="items" light >
+      <template v-slot:divider >
+        <v-icon >mdi-chevron-right</v-icon>
       </template>
     </v-breadcrumbs>
   </div>
 </template>
-
 <script>
   export default {
     data: () => ({
       items: [
         {
-          text: 'Dashboard',
+          text: 'Select State',
           disabled: false,
           href: 'breadcrumbs_dashboard',
         },
         {
-          text: 'Link 1',
+          text: 'Browse Plans',
           disabled: false,
           href: 'breadcrumbs_link_1',
         },
         {
-          text: 'Link 2',
+          text: 'Confirmation Page',
           disabled: true,
           href: 'breadcrumbs_link_2',
         },

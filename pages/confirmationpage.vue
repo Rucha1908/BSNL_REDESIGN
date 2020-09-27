@@ -1,5 +1,12 @@
 <template>
-  <div><v-row>
+
+  <div>
+   <breadcrumbs/>
+  
+   <!--green confirmation box -->
+  <v-row>
+       
+
   <v-col align="center" 
   class="mx-auto pt-16 mt-16" width="750px" height="250px">
       </v-col>
@@ -7,7 +14,7 @@
      </v-row>
     <v-alert
     :value="alert"
-      class="mx-auto pt-13  mt-16"
+      class="mx-auto"
       width="750px"
       height="250px"
       
