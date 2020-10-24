@@ -5,17 +5,11 @@
   "LazyLogofile": {
     "description": "Auto imported from components/Logofile.vue"
   },
-  "Accordian": {
-    "description": "Auto imported from components/accordian.vue"
+  "Browsebread": {
+    "description": "Auto imported from components/browsebread.vue"
   },
-  "LazyAccordian": {
-    "description": "Auto imported from components/accordian.vue"
-  },
-  "Breadcrumb": {
-    "description": "Auto imported from components/breadcrumb.vue"
-  },
-  "LazyBreadcrumb": {
-    "description": "Auto imported from components/breadcrumb.vue"
+  "LazyBrowsebread": {
+    "description": "Auto imported from components/browsebread.vue"
   },
   "Caraosel": {
     "description": "Auto imported from components/caraosel.vue"
@@ -23,29 +17,17 @@
   "LazyCaraosel": {
     "description": "Auto imported from components/caraosel.vue"
   },
-  "Customactions": {
-    "description": "Auto imported from components/customactions.vue"
+  "Confirmbread": {
+    "description": "Auto imported from components/confirmbread.vue"
   },
-  "LazyCustomactions": {
-    "description": "Auto imported from components/customactions.vue"
+  "LazyConfirmbread": {
+    "description": "Auto imported from components/confirmbread.vue"
   },
-  "Grids": {
-    "description": "Auto imported from components/grids.vue"
+  "Statebread": {
+    "description": "Auto imported from components/statebread.vue"
   },
-  "LazyGrids": {
-    "description": "Auto imported from components/grids.vue"
-  },
-  "Horizontalcards": {
-    "description": "Auto imported from components/horizontalcards.vue"
-  },
-  "LazyHorizontalcards": {
-    "description": "Auto imported from components/horizontalcards.vue"
-  },
-  "Loadingaction": {
-    "description": "Auto imported from components/loadingaction.vue"
-  },
-  "LazyLoadingaction": {
-    "description": "Auto imported from components/loadingaction.vue"
+  "LazyStatebread": {
+    "description": "Auto imported from components/statebread.vue"
   },
   "Tabs": {
     "description": "Auto imported from components/tabs.vue"

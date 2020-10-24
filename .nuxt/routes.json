@@ -35,6 +35,13 @@
     "_name": "_bb4b21fe"
   },
   {
+    "name": "trial",
+    "path": "/trial",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/trial.vue",
+    "chunkName": "pages/trial",
+    "_name": "_15b76520"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/index.vue",

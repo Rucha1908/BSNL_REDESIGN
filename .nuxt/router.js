@@ -8,6 +8,7 @@ const _a41cf9ac = () => interopDefault(import('../pages/confirmationpage.vue' /*
 const _a9292976 = () => interopDefault(import('../pages/home.vue' /* webpackChunkName: "pages/home" */))
 const _039e7264 = () => interopDefault(import('../pages/inspire.vue' /* webpackChunkName: "pages/inspire" */))
 const _bb4b21fe = () => interopDefault(import('../pages/stateselection.vue' /* webpackChunkName: "pages/stateselection" */))
+const _15b76520 = () => interopDefault(import('../pages/trial.vue' /* webpackChunkName: "pages/trial" */))
 const _163f40dc = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 // TODO: remove in Nuxt 3
@@ -46,6 +47,10 @@ export const routerOptions = {
     path: "/stateselection",
     component: _bb4b21fe,
     name: "stateselection"
+  }, {
+    path: "/trial",
+    component: _15b76520,
+    name: "trial"
   }, {
     path: "/",
     component: _163f40dc,
