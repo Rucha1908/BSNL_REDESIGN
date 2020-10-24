@@ -3,42 +3,36 @@
     "name": "Browseplans",
     "path": "/Browseplans",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/Browseplans.vue",
-    "chunkName": "pages/Browseplans",
-    "_name": "_3225158a"
+    "chunkName": "pages/Browseplans"
   },
   {
     "name": "confirmationpage",
     "path": "/confirmationpage",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/confirmationpage.vue",
-    "chunkName": "pages/confirmationpage",
-    "_name": "_a41cf9ac"
+    "chunkName": "pages/confirmationpage"
   },
   {
     "name": "home",
     "path": "/home",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/home.vue",
-    "chunkName": "pages/home",
-    "_name": "_a9292976"
+    "chunkName": "pages/home"
   },
   {
     "name": "inspire",
     "path": "/inspire",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/inspire.vue",
-    "chunkName": "pages/inspire",
-    "_name": "_039e7264"
+    "chunkName": "pages/inspire"
   },
   {
     "name": "stateselection",
     "path": "/stateselection",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/stateselection.vue",
-    "chunkName": "pages/stateselection",
-    "_name": "_bb4b21fe"
+    "chunkName": "pages/stateselection"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_163f40dc"
+    "chunkName": "pages/index"
   }
 ]
