@@ -16,7 +16,7 @@
           <v-card
         class="col-md-3 col-xs-5 col-sm-7"
         light
-        color="#A5F2EA"
+        color="white"
         width="700px"
         height="230px"
         
@@ -25,7 +25,7 @@
           <v-list-item-group
             v-model="model"
             
-            color="#707070"
+            color="#3588C4"
         
       >
         <v-list-item
@@ -42,7 +42,7 @@
           </v-list>
         </v-card>
       
- <!--Data iterator -->
+ <!--Data iterator search and sort by options-->
 
         <v-col>
           
@@ -112,19 +112,19 @@
 
         <v-expansion-panel-header style="color:#0161B0;" class="d-flex justify-space-around caption"   >
         
-        <div class="d-flex justify-space-between caption">
+        <div class="d-flex justify-space-between caption" >
 
-                    <div class="grey--text">
+                    <div class="grey--text" style="font-size:20px">
                       Rs. 16/-
                     </div>
 
                     
-                    <div class="grey--text ">
+                    <div class="grey--text " style="font-size:20px">
                       1 day
                     </div>
 
                     <div
-                      class="grey--text "
+                      class="grey--text " style="font-size:20px"
                      
                     >
                      1 GB/day</div>
@@ -162,16 +162,16 @@
                   
                     
                  
-                  </div>
+  </div>
           
         </v-expansion-panel-content>
 
 
-                  
-
       </v-expansion-panel>
     </v-expansion-panels>
            <br>
+
+           
                <!--Accordion 2-->
 
            <v-expansion-panels accordion light style="height: 145px">
@@ -181,17 +181,17 @@
         
         <div class="d-flex justify-space-between caption">
 
-                    <div class="grey--text">
+                    <div class="grey--text" style="font-size:20px">
                       Rs. 16/-
                     </div>
 
                     
-                    <div class="grey--text ">
+                    <div class="grey--text " style="font-size:20px">
                       1 day
                     </div>
 
                     <div
-                      class="grey--text "
+                      class="grey--text " style="font-size:20px"
                      
                     >
                      1 GB/day</div>
@@ -199,12 +199,7 @@
                     </div>
         
         
-        
-        
-        
-        
-        
-         </v-expansion-panel-header>
+      </v-expansion-panel-header>
     
         <v-expansion-panel-content >
 
@@ -233,20 +228,12 @@ after 2GB/day
                   
                     </div>
                       
-                    
-            
-
-                  
-                    
-                 
-                  </div>
+        </div>
           
         </v-expansion-panel-content>
 
 
-                  
-
-      </v-expansion-panel>
+     </v-expansion-panel>
     </v-expansion-panels>
            <br>
            
@@ -260,30 +247,24 @@ after 2GB/day
         
         <div class="d-flex justify-space-between caption">
 
-                    <div class="grey--text">
+                    <div class="grey--text" style="font-size:20px">
                       Rs. 16/-
                     </div>
 
                     
-                    <div class="grey--text ">
+                    <div class="grey--text " style="font-size:20px">
                       1 day
                     </div>
 
                     <div
-                      class="grey--text "
+                      class="grey--text " style="font-size:20px"
                      
                     >
                      1 GB/day</div>
 
                     </div>
         
-        
-        
-        
-        
-        
-        
-         </v-expansion-panel-header>
+        </v-expansion-panel-header>
     
         <v-expansion-panel-content >
 
@@ -294,12 +275,7 @@ after 2GB/day
                     <div class="font-weight-medium">
                       DATAtsunami
                     </div>
-                    
-                  
-
-                  
-
-                    <div
+                   <div
                       class="font-weight-medium">
 (Calendar days)
 Validity                  </div>
@@ -312,20 +288,10 @@ after 2GB/day
                   
                     </div>
                       
-                    
-            
-
-                  
-                    
-                 
-                  </div>
+                     </div>
           
         </v-expansion-panel-content>
-
-
-                  
-
-      </v-expansion-panel>
+         </v-expansion-panel>
     </v-expansion-panels>
            
 
