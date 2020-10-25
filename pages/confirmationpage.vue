@@ -1,21 +1,21 @@
 <template>
 
   <div>
-   <breadcrumbs/>
+   <confirmbread/>
   
    <!--green confirmation box -->
   <v-row>
        
 
   <v-col align="center" 
-  class="mx-auto pt-16 mt-16" width="750px" height="250px">
+  class="mx-auto pt-16 mt-16" width="250px" height="250px">
       </v-col>
 
      </v-row>
     <v-alert
     :value="alert"
       class="mx-auto"
-      width="750px"
+      width="350px"
       height="250px"
       
       fill
@@ -29,7 +29,7 @@
       
       
             
-      <v-col align="center">
+      <v-col align="left">
         
         </v-col>
        

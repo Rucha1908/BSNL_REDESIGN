@@ -2,7 +2,7 @@
   <div >
    <!--Breadcrumbs for Confirmation page -->
 
-    <v-breadcrumbs :items="items" light >
+    <v-breadcrumbs :items="items" light style="color:#3588C4; font-family:Futura Std, sans-serif" >
       <template v-slot:divider >
         <v-icon >mdi-chevron-right</v-icon>
       </template>
@@ -15,18 +15,18 @@
       items: [
         {
           text: 'Select State',
-          disabled: false,
+          disabled: true,
           href: 'breadcrumbs_dashboard',
         },
         {
           text: 'Browse Plans',
-          disabled: false,
+          disabled: true,
           href: 'breadcrumbs_link_1',
         },
         {
           text: 'Confirmation Page',
-          disabled: true,
-          href: 'breadcrumbs_link_2',
+          disabled: false,
+          
         },
       ],
     }),

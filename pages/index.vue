@@ -1,12 +1,14 @@
 <template>
   <div>
     <v-content>
-    <bsnl_logo/>
-      It Worked!
+    <bsnllogo/>
+    <Caraosel/>
+      
       <accordian/>
     </v-content>
   </div>
 </template>
+
 
 <script>
 </script>

@@ -5,34 +5,40 @@
     </div>
      
     <div >
-      <h1> Prepaid > View Plans > Select your state </h1>
+      <h1 style="color:#3588C4; font-family:Futura Std, sans-serif" class="font-weight-bold pa-sm-2"> Prepaid > View Plans > Select your state </h1>
       <br /><br /> </div>
 
 
       <!--Card for state selection -->
 
-<v-card  class="cols-6 col-md-6 col-xs-1" light  width="850px">
+<v-card  class="cols-8 col-md-9 col-xs-1 ml-2" light  width="850px" >
+
     
- <v-col cols="12" color="white" >            
+    
           <v-autocomplete
             v-model="value"
             :items="items"
             dense
-           
+            
             filled
             label= "Choose your State"
             class="change-font"
             
-            height="100px"
+            height="100px">
            
            
-          ></v-autocomplete>
+           
+          
+
+           </v-autocomplete>
+
+
         </v-col>
         
         </v-card>
 
 
-        <v-card class="pa-auto" tile>
+        <v-card class="pa-auto" tile >
 
         </v-card>
       </v-col>

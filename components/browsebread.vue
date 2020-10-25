@@ -3,7 +3,7 @@
   <div >
    
 
-    <v-breadcrumbs :items="items" light >
+    <v-breadcrumbs :items="items" light style="color:#3588C4; font-family:Futura Std, sans-serif">
       <template v-slot:divider >
         <v-icon >mdi-chevron-right</v-icon>
       </template>
@@ -16,17 +16,17 @@
       items: [
         {
           text: 'Select State',
-          disabled: false,
-          href: 'breadcrumbs_dashboard',
+          disabled: true,
+          href: 'http://localhost:3000/BSNL_REDESIGN/stateselection',
         },
         {
           text: 'Browse Plans',
-          disabled: true,
-          href: 'breadcrumbs_link_1',
+          disabled: false,
+          
         },
         {
           text: 'Confirmation Page',
-          disabled: false,
+          disabled: true,
           href: 'breadcrumbs_link_2',
         },
       ],
