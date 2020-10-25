@@ -3,7 +3,7 @@ import Router from 'vue-router'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _6d925daa = () => interopDefault(import('../pages/browseplans.vue' /* webpackChunkName: "pages/browseplans" */))
+const _3225158a = () => interopDefault(import('../pages/Browseplans.vue' /* webpackChunkName: "pages/Browseplans" */))
 const _a41cf9ac = () => interopDefault(import('../pages/confirmationpage.vue' /* webpackChunkName: "pages/confirmationpage" */))
 const _039e7264 = () => interopDefault(import('../pages/inspire.vue' /* webpackChunkName: "pages/inspire" */))
 const _bb4b21fe = () => interopDefault(import('../pages/stateselection.vue' /* webpackChunkName: "pages/stateselection" */))
@@ -26,9 +26,9 @@ export const routerOptions = {
   scrollBehavior,
 
   routes: [{
-    path: "/browseplans",
-    component: _6d925daa,
-    name: "browseplans"
+    path: "/Browseplans",
+    component: _3225158a,
+    name: "Browseplans"
   }, {
     path: "/confirmationpage",
     component: _a41cf9ac,

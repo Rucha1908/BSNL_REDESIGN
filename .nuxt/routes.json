@@ -1,10 +1,10 @@
 [
   {
-    "name": "browseplans",
-    "path": "/browseplans",
-    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/browseplans.vue",
-    "chunkName": "pages/browseplans",
-    "_name": "_6d925daa"
+    "name": "Browseplans",
+    "path": "/Browseplans",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/Browseplans.vue",
+    "chunkName": "pages/Browseplans",
+    "_name": "_3225158a"
   },
   {
     "name": "confirmationpage",
