@@ -15,13 +15,17 @@
           class="mt-4 hidden-sm-and-down" 
           v-bind="attrs"
           v-on="on"
-          width="200px" >
+          width="200px" 
+          >
          <h3>PREPAID </h3>
         </v-btn>
       </template>
       <v-list>
-        <v-list-item v-for="n in 5" :key="n" link>
-          <v-list-item-title v-text="'Item ' + n"></v-list-item-title>
+        <v-list-item>
+          <v-tab > Recharge</v-tab>
+           <v-tab @click="check; $router.push('stateselection')"> View Plans</v-tab>
+            <v-tab> Upgrade to postpaid</v-tab>
+             <v-tab> International Roaming</v-tab>
         </v-list-item>
       </v-list>
     </v-menu>
@@ -96,3 +100,4 @@
     </v-row>
   
 </template>
+

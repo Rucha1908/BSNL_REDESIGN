@@ -11,27 +11,41 @@
 
       <!--Card for state selection -->
 
-<v-card  class="cols-8 col-md-9 col-xs-1 ml-2" light  width="850px" >
+<v-card  class="cols-8 col-md-9 col-xs-1 " light  width="850px" height="140px" >
 
     
-    
+    <v-row>
           <v-autocomplete
             v-model="value"
             :items="items"
-            dense
             
-            filled
             label= "Choose your State"
-            class="change-font"
+            class="change-font pa-3 "
             
             height="100px">
+            
            
            </v-autocomplete>
-
-
+         
+           
         </v-col>
+         
         
-        </v-card>
+        
+           
+           <v-btn height="100px"  style="color: primary; font-family:Futura Std, sans-serif" class=" font-weight-bold hidden-xs-only "  @click="$router.push('Browseplans')"> go </v-btn>
+           <v-btn height="60px"  style="color: primary; font-family:Futura Std, sans-serif" class="font-weight-bold  hidden-sm-and-up col-md-9 col-xs-1  " @click="$router.push('Browseplans')"> go\ </v-btn>
+           <button @click="$router.push('Browseplans')" > </button>
+           </v-row>
+           </v-card>
+                   <br>
+           <br>
+           <br>
+           <br>
+            <br>
+           <br>
+           <br>
+           
 
 
         <v-card class="pa-auto" tile >

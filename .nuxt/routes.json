@@ -14,6 +14,13 @@
     "_name": "_a41cf9ac"
   },
   {
+    "name": "DATA",
+    "path": "/DATA",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/DATA.vue",
+    "chunkName": "pages/DATA",
+    "_name": "_61be0090"
+  },
+  {
     "name": "inspire",
     "path": "/inspire",
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/inspire.vue",
@@ -26,6 +33,13 @@
     "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/stateselection.vue",
     "chunkName": "pages/stateselection",
     "_name": "_bb4b21fe"
+  },
+  {
+    "name": "zeel",
+    "path": "/zeel",
+    "component": "/Users/ruchapatel/Documents/BSNL_REDESIGN/pages/zeel.vue",
+    "chunkName": "pages/zeel",
+    "_name": "_4a03bc10"
   },
   {
     "name": "index",

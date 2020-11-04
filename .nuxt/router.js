@@ -5,8 +5,10 @@ import scrollBehavior from './router.scrollBehavior.js'
 
 const _3225158a = () => interopDefault(import('../pages/Browseplans.vue' /* webpackChunkName: "pages/Browseplans" */))
 const _a41cf9ac = () => interopDefault(import('../pages/confirmationpage.vue' /* webpackChunkName: "pages/confirmationpage" */))
+const _61be0090 = () => interopDefault(import('../pages/DATA.vue' /* webpackChunkName: "pages/DATA" */))
 const _039e7264 = () => interopDefault(import('../pages/inspire.vue' /* webpackChunkName: "pages/inspire" */))
 const _bb4b21fe = () => interopDefault(import('../pages/stateselection.vue' /* webpackChunkName: "pages/stateselection" */))
+const _4a03bc10 = () => interopDefault(import('../pages/zeel.vue' /* webpackChunkName: "pages/zeel" */))
 const _163f40dc = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 // TODO: remove in Nuxt 3
@@ -34,6 +36,10 @@ export const routerOptions = {
     component: _a41cf9ac,
     name: "confirmationpage"
   }, {
+    path: "/DATA",
+    component: _61be0090,
+    name: "DATA"
+  }, {
     path: "/inspire",
     component: _039e7264,
     name: "inspire"
@@ -41,6 +47,10 @@ export const routerOptions = {
     path: "/stateselection",
     component: _bb4b21fe,
     name: "stateselection"
+  }, {
+    path: "/zeel",
+    component: _4a03bc10,
+    name: "zeel"
   }, {
     path: "/",
     component: _163f40dc,

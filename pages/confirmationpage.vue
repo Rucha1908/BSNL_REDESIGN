@@ -1,7 +1,9 @@
 <template>
-
-  <div>
+ 
+  <div >
+   <v-row class="pl-16 ml-16">
    <confirmbread/>
+   </v-row>
   
    <!--green confirmation box -->
   <v-row>
