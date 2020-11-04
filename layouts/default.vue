@@ -63,9 +63,12 @@
        <v-row 
        
        >
-       <img src="bsnllogo.png" style="width: 180px; padding-left: 50px ; padding-right: 50px;" class=" pl-ml-16 hidden-xs-only">
-       <img src="bsnllogo.png" style="width: 150px; padding-left: 50px ; padding-right: 50px;" class=" pl-ml-16 hidden-sm-and-up">
+       <img src="bsnllogo.png" style= "width: 180px; padding-left: 50px ; padding-right: 50px;" class="hidden-xs-only">
+       <v-col>
+       <img src="bsnllogo.png" style= "width: 150px; padding-right: 50px ; padding-left: 50px;" class="hidden-sm-and-up">
+        </v-col>
         </v-row >
+
        <!-- Component Example -->
         <v-row  justify="start" class="  col-md-7">
        <tabs/>
