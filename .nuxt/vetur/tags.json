@@ -23,6 +23,12 @@
   "LazyConfirmbread": {
     "description": "Auto imported from components/confirmbread.vue"
   },
+  "Search": {
+    "description": "Auto imported from components/search.vue"
+  },
+  "LazySearch": {
+    "description": "Auto imported from components/search.vue"
+  },
   "Statebread": {
     "description": "Auto imported from components/statebread.vue"
   },

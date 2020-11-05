@@ -34,7 +34,7 @@
         
            
            <v-btn height="100px"  style="color: primary; font-family:Futura Std, sans-serif" class=" font-weight-bold hidden-xs-only "  @click="$router.push('Browseplans')"> go </v-btn>
-           <v-btn height="60px"  style="color: primary; font-family:Futura Std, sans-serif" class="font-weight-bold  hidden-sm-and-up col-md-9 col-xs-1  " @click="$router.push('Browseplans')"> go\ </v-btn>
+           <v-btn height="60px"  style="color: primary; font-family:Futura Std, sans-serif" class="font-weight-bold  hidden-sm-and-up col-md-9 col-xs-1  " @click="$router.push('Browseplans')"> go </v-btn>
            <button @click="$router.push('Browseplans')" > </button>
            </v-row>
            </v-card>

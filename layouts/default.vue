@@ -26,6 +26,7 @@
       <template v-slot:activator="{ on, attrs }">
 
       <!--menu btn -->
+      <v-row justify="end">
         <v-btn
           color="#0160B0"
           width="60px"
@@ -38,9 +39,13 @@
           @click.stop="drawer = !drawer"
           >
           
-          menu
+        <v-icon>
+            mdi-menu 
+            </v-icon>
         </v-btn>
+        </v-row>
       </template>
+       
       
      
       <v-expansion-panels accordion >
@@ -112,6 +117,7 @@
            
           ></v-text-field>
              </v-row>
+             
              
           <v-row  justify="end" class="col-md-2 col-xs-1 col-sm-4 hidden-xs-only">
           <v-col  justify="end">
